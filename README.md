@@ -1,9 +1,8 @@
 <!--Banner-->
-<!--![Data Science Banner](https://your-banner-url-here.png)-->
+![Profile Banner](https://raw.githubusercontent.com/Pratham0145/Pratham0145/main/banner.png)
 
-<!--Data Science Illustration-->
-<div>
-  <img align="right" width="40%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBhOGE4ZjBhNjBhNjBhNjBhNjBhNjBhNjBhNjBhNjBhNjBhNjBhNjAw/L1R1tvI9svkIWwpVYr/giphy.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Pratham+👋;Data+Scientist+%7C+ML+Engineer;Turning+Data+into+Insights" alt="Typing SVG" />
 </div>
 
 <!--Header Name-->
