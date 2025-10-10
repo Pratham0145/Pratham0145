@@ -1,5 +1,5 @@
 <!--Banner-->
-![Data Science Banner](https://your-banner-url-here.png)
+<!--![Data Science Banner](https://your-banner-url-here.png)-->
 
 <!--Data Science Illustration-->
 <div>
@@ -20,7 +20,7 @@
 - 💡 **Passionate About**: NLP, Computer Vision, Time Series Analysis, and MLOps.
 - 🤝 **Collaborate With Me**: Open to collaborating on cutting-edge ML/AI projects, Kaggle competitions, and research initiatives.
 - 🎯 **Goal**: To contribute to the advancement of AI/ML technologies and make data-driven decision-making accessible.
-- 📧 **Reach Out**: [your.email@example.com](mailto:your.email@example.com)
+- 📧 **Reach Out**: [prathameshece2022@gmail.com](mailto:prathameshece2022@gmail.com)
 
 <!--End Intro-->
 
