@@ -2,7 +2,7 @@
 ![Profile Banner](https://raw.githubusercontent.com/Pratham0145/Pratham0145/main/banner.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Pratham+👋;Data+Scientist+%7C+ML+Engineer;Turning+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=1200&height=300&lines=PRATHAM;Data+Scientist+%7C+Machine+Learning+Engineer" alt="Animated Banner" />
 </div>
 
 <!--Header Name-->
