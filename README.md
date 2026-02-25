@@ -17,81 +17,78 @@
 
 ## 🧠 About Me
 
-Data Scientist with **3+ years of experience** building scalable AI-driven systems for CRM optimization, customer intelligence, recommendation engines, and GenAI applications.
+Data Scientist with 3+ years of experience designing and deploying scalable AI-driven systems for CRM optimization, recommendation engines, customer segmentation, and enterprise GenAI applications.
 
-I specialize in converting business problems into production-grade ML systems that deliver measurable impact.
-
----
-
-## 📊 Impact Metrics
-
-- 🚀 Improved targeted campaign effectiveness using customer segmentation models  
-- 📈 Increased product conversion through matrix factorization recommendation systems  
-- 🤖 Reduced customer support workload by deploying RAG-based conversational AI  
-- ⚙ Automated ML workflows using N8N & Seahorse orchestration  
-- ⚡ Built low-latency real-time inference APIs for production environments  
+Specialized in building production-grade RAG systems, vector search architectures, and ML automation workflows.
 
 ---
 
-## 🛠 Technical Expertise
+## 🚀 Featured Enterprise Project
 
-### 📊 Data Science & Machine Learning
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
+### 🧠 Enterprise Multimodal RAG System (Production)
 
-- Customer Segmentation (K-Means, DBSCAN, RFM)
-- Matrix Factorization (SVD, NMF)
-- Deep Learning
-- NLP & Embeddings
-- Retrieval-Augmented Generation (RAG)
+- Designed production-grade multimodal RAG pipeline  
+- Integrated Redis Stack vector similarity search  
+- Built scalable FastAPI backend  
+- Implemented embedding-based semantic retrieval  
+- Dockerized enterprise deployment  
+- Real-time document querying system  
 
----
-
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
-![SingleStore](https://img.shields.io/badge/SingleStore-111111?style=for-the-badge)
+🔗 Repo:  
+https://github.com/Pratham0145/enterprise-multimodal-rag
 
 ---
 
-### ⚙ Workflow & Orchestration
-![N8N](https://img.shields.io/badge/N8N-111111?style=for-the-badge)
-![Seahorse](https://img.shields.io/badge/Seahorse_Workflow-111111?style=for-the-badge)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-111111?style=for-the-badge&logo=apacheairflow)
-![REST API](https://img.shields.io/badge/REST-111111?style=for-the-badge)
-
----
-
-## 🔥 Featured Projects
+## 🔥 Other Key Projects
 
 ### 🤖 RAG-Based Customer Value Chatbot
-- Architected vector database + LLM retrieval pipeline  
-- Implemented semantic embedding search  
-- Deployed enterprise-ready conversational AI  
-🔗 Repo: https://github.com/Pratham0145/chatbot  
+- Retrieval-Augmented Generation with vector embeddings  
+- CRM-integrated conversational AI  
+- Reduced customer support load  
+
+🔗 https://github.com/Pratham0145/chatbot  
 
 ---
 
 ### 🎯 Recommendation Engine
-- Built collaborative filtering models (SVD, NMF)  
-- Designed real-time prediction serving APIs  
-- Optimized prepaid & postpaid product targeting  
+- Matrix factorization (SVD / NMF)  
+- Real-time inference APIs  
+- Behavioral targeting optimization  
 
 ---
 
-### 📊 AI Customer Segmentation System
-- Designed unsupervised ML models (K-Means, DBSCAN)  
-- Integrated RFM analytics with CRM workflows  
-- Improved personalization strategies  
+### 📊 Customer Segmentation System
+- K-Means & DBSCAN  
+- RFM analytics integration  
+- Campaign intelligence  
 
 ---
 
-### ⚙ Text-to-Rule Automation Engine
-- Converted natural language business rules into automation workflows  
-- Integrated NLP-based intent & entity extraction  
-- Reduced manual configuration effort  
+## 🗄 Databases & Vector Stores
+
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
+![SingleStore](https://img.shields.io/badge/SingleStore-111111?style=for-the-badge)
+![Redis Stack](https://img.shields.io/badge/Redis_Stack-111111?style=for-the-badge&logo=redis)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-111111?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-111111?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase)
+
+- Vector similarity search
+- Embedding storage
+- ANN indexing
+- Scalable retrieval systems
+
+---
+
+## ⚙ Workflow & Orchestration
+
+![N8N](https://img.shields.io/badge/N8N-111111?style=for-the-badge)
+![Seahorse](https://img.shields.io/badge/Seahorse_Workflow-111111?style=for-the-badge)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-111111?style=for-the-badge&logo=apacheairflow)
+
+- ML pipeline automation  
+- Model orchestration  
+- Real-time workflow triggers  
 
 ---
 
@@ -110,8 +107,8 @@ I specialize in converting business problems into production-grade ML systems th
 ## 🎯 Current Focus
 
 - Production-Grade GenAI Systems  
-- Multi-User AI Assistants  
-- Vector Databases & LLM Orchestration  
+- Vector Database Optimization  
+- Enterprise RAG Architectures  
 - Scalable ML Deployment  
 
 ---
