@@ -112,11 +112,9 @@ I specialize in transforming complex business problems into intelligent, product
 </p>
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pratham0145/Pratham0145/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/Pratham0145/Pratham0145/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
