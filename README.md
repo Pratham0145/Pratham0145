@@ -1,9 +1,17 @@
 <h1 align="center">Prathamesh Patil</h1>
-<h3 align="center">Data Scientist | GenAI | Recommendation Systems | ML Automation</h3>
 
 <p align="center">
   <a href="https://github.com/Pratham0145">
-    <img src="https://komarev.com/ghpvc/?username=Pratham0145&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Scientist;GenAI+%7C+RAG+Systems+Architect;Recommendation+Systems+Engineer;Production+ML+%26+Automation+Specialist" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prathamesh-m-patil-810024229">
+    <img src="https://img.shields.io/badge/LinkedIn-Prathamesh%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:prathameshece2022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -11,83 +19,80 @@
 
 ## 🧠 About Me
 
-🚀 Data Scientist with 3+ years of experience building scalable AI-driven solutions  
-📊 Specialized in Customer Segmentation, Recommendation Systems & RAG-based GenAI  
-⚙️ Experienced in production ML pipelines, workflow automation & real-time APIs  
-💡 Passionate about transforming business problems into intelligent data solutions  
+Data Scientist with **3+ years of experience** designing and deploying scalable AI systems for CRM optimization, customer intelligence, recommendation engines, and GenAI applications.
+
+I specialize in transforming complex business problems into intelligent, production-grade ML solutions.
 
 ---
 
-## 💼 What I Build
+## 📊 Impact Highlights
 
-✔ AI-Powered Customer Segmentation Systems  
-✔ Matrix Factorization Recommendation Engines  
-✔ RAG-Based Conversational AI Platforms  
-✔ Text-to-Rule AI Automation Systems  
-✔ ML Model Deployment & Real-Time Inference APIs  
-✔ CRM Optimization & Campaign Intelligence Systems  
+✔ Improved targeted marketing effectiveness using customer segmentation models  
+✔ Built recommendation engines increasing conversion across prepaid & postpaid products  
+✔ Designed RAG-based chatbot reducing customer support workload  
+✔ Automated ML workflows using N8N & Seahorse platforms  
+✔ Developed real-time ML APIs serving low-latency predictions  
 
 ---
 
-## 🛠 Technical Expertise
+## 🚀 Core Expertise
 
-### 📊 Data Science & ML
-- Python
-- TensorFlow
-- Scikit-Learn
-- Pandas & NumPy
-- Deep Learning
-- NLP
-- RAG Architecture
-- Recommendation Systems
+### 📈 Data Science & Machine Learning
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
+
 - Customer Segmentation (K-Means, DBSCAN, RFM)
+- Matrix Factorization (SVD, NMF)
+- Deep Learning
+- NLP & Embeddings
+- Retrieval-Augmented Generation (RAG)
+
+---
 
 ### 🗄 Databases
-- MySQL  
-- SingleStoreDB  
-
-### ⚙️ Workflow & Automation
-- N8N
-- Seahorse Workflow
-- REST APIs
-- CI/CD Integration
-
-### 🌐 Web & Visualization
-- Streamlit
-- JavaScript
-- HTML/CSS
-- Interactive ML Dashboards
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
+![SingleStore](https://img.shields.io/badge/SingleStore-111111?style=for-the-badge)
 
 ---
 
-## 🔥 Featured Projects
+### ⚙ Workflow & Automation
+![N8N](https://img.shields.io/badge/N8N-111111?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-111111?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+
+---
+
+## 🔥 Featured Work
 
 ### 🤖 RAG-Based Customer Value Chatbot
-- Architected Retrieval-Augmented Generation pipeline
-- Implemented semantic search using embeddings
-- Reduced customer support ticket load through AI automation
-🔗 Repo: https://github.com/Pratham0145/chatbot
+- Architected vector retrieval + LLM generation pipeline  
+- Implemented semantic search using embeddings  
+- Deployed conversational AI for enterprise CRM use  
+🔗 Repo: https://github.com/Pratham0145/chatbot  
 
 ---
 
-### 🎯 Matrix Factorization Recommendation Engine
-- Built collaborative filtering system (SVD, NMF)
-- Developed real-time prediction serving APIs
-- Optimized prepaid & postpaid recommendation flows
+### 🎯 Recommendation Engine
+- Built collaborative filtering models (SVD, NMF)  
+- Created real-time inference API  
+- Optimized behavioral targeting pipelines  
 
 ---
 
-### 📊 AI Customer Segmentation System
-- Designed K-Means & DBSCAN models
-- Integrated RFM analysis for CRM targeting
-- Improved marketing personalization effectiveness
+### 📊 Customer Segmentation System
+- Designed unsupervised ML segmentation models  
+- Integrated RFM analytics into CRM campaigns  
+- Improved personalization accuracy  
 
 ---
 
-### ⚙ N8N Text-to-Rule Automation Engine
-- Converted natural language business rules into executable workflows
-- Integrated NLP-based intent classification
-- Automated business rule implementation pipeline
+### ⚙ Text-to-Rule Automation (N8N)
+- Converted natural language business rules into automation workflows  
+- Integrated NLP for intent detection & entity extraction  
+- Reduced configuration time for business users  
 
 ---
 
@@ -107,21 +112,21 @@
 
 ---
 
-## 🌍 Connect With Me
+## 🐍 Contribution Graph
 
-📧 prathameshece2022@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/prathamesh-m-patil-810024229 
-💻 GitHub: https://github.com/Pratham0145  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pratham0145/Pratham0145/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Production-Grade GenAI Systems
-- Multi-User AI Assistants
-- Scalable ML Deployment
-- Vector Databases & LLM Orchestration
+- Production-Grade GenAI Systems  
+- Multi-User AI Assistants  
+- Scalable ML Deployment  
+- Vector Databases & LLM Orchestration  
 
 ---
 
-⭐ Always open to collaborating on Data Science, ML & GenAI projects.
+⭐ Open to collaborating on Data Science, ML & GenAI projects.
