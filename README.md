@@ -98,14 +98,10 @@ I specialize in transforming complex business problems into intelligent, product
 ---
 
 
-## 📈 GitHub Analytics
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham0145&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pratham0145&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pratham0145&theme=github-dark&hide_border=true" />
 </p>
 ---
 
