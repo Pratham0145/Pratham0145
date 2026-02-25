@@ -1,7 +1,7 @@
 <h1 align="center">Prathamesh Patil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Scientist;GenAI+%7C+RAG+Systems+Architect;Recommendation+Systems+Engineer;Production+ML+%26+Automation+Specialist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Scientist;GenAI+%7C+RAG+Systems+Architect;Vector+Database+Specialist;Production+ML+Engineer" />
 </p>
 
 <p align="center">
@@ -13,58 +13,57 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pratham0145&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🧠 About Me
 
-Data Scientist with 3+ years of experience designing and deploying scalable AI-driven systems for CRM optimization, recommendation engines, customer segmentation, and enterprise GenAI applications.
+Data Scientist with 3+ years of experience building scalable AI-driven systems across:
 
-Specialized in building production-grade RAG systems, vector search architectures, and ML automation workflows.
+- Enterprise RAG architectures  
+- Vector database optimization  
+- Recommendation systems  
+- CRM intelligence & campaign automation  
+- ML workflow orchestration  
 
----
-
-## 🚀 Featured Enterprise Project
-
-### 🧠 Enterprise Multimodal RAG System (Production)
-
-- Designed production-grade multimodal RAG pipeline  
-- Integrated Redis Stack vector similarity search  
-- Built scalable FastAPI backend  
-- Implemented embedding-based semantic retrieval  
-- Dockerized enterprise deployment  
-- Real-time document querying system  
-
-🔗 Repo:  
-https://github.com/Pratham0145/enterprise-multimodal-rag
+I focus on production-ready GenAI systems that deliver measurable business impact.
 
 ---
 
-## 🔥 Other Key Projects
+# 🚀 Featured Enterprise Project
+
+## 🧠 Enterprise Multimodal RAG System
+
+Production-grade multimodal Retrieval-Augmented Generation architecture.
+
+- Redis Stack vector similarity search  
+- Embedding-based semantic retrieval  
+- FastAPI backend  
+- Dockerized microservice deployment  
+- Real-time enterprise document querying  
+
+🔗 https://github.com/Pratham0145/enterprise-multimodal-rag
+
+---
+
+# 🔥 Core Projects
 
 ### 🤖 RAG-Based Customer Value Chatbot
-- Retrieval-Augmented Generation with vector embeddings  
-- CRM-integrated conversational AI  
-- Reduced customer support load  
-
+Vector retrieval + LLM response pipeline  
 🔗 https://github.com/Pratham0145/chatbot  
 
----
-
 ### 🎯 Recommendation Engine
-- Matrix factorization (SVD / NMF)  
-- Real-time inference APIs  
-- Behavioral targeting optimization  
+Matrix Factorization (SVD/NMF) + Real-time APIs  
+
+### 📊 Customer Segmentation
+K-Means / DBSCAN / RFM-based targeting  
 
 ---
 
-### 📊 Customer Segmentation System
-- K-Means & DBSCAN  
-- RFM analytics integration  
-- Campaign intelligence  
-
----
-
-## 🗄 Databases & Vector Stores
+# 🗄 Databases & Vector Stores
 
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
 ![SingleStore](https://img.shields.io/badge/SingleStore-111111?style=for-the-badge)
@@ -73,43 +72,71 @@ https://github.com/Pratham0145/enterprise-multimodal-rag
 ![Qdrant](https://img.shields.io/badge/Qdrant-111111?style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase)
 
-- Vector similarity search
-- Embedding storage
-- ANN indexing
-- Scalable retrieval systems
+- ANN indexing  
+- Embedding storage  
+- Scalable similarity search  
 
 ---
 
-## ⚙ Workflow & Orchestration
+# ⚙ Workflow & Orchestration
 
 ![N8N](https://img.shields.io/badge/N8N-111111?style=for-the-badge)
 ![Seahorse](https://img.shields.io/badge/Seahorse_Workflow-111111?style=for-the-badge)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-111111?style=for-the-badge&logo=apacheairflow)
 
-- ML pipeline automation  
-- Model orchestration  
-- Real-time workflow triggers  
-
 ---
 
-## 📈 Contribution Activity
+# 📊 GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Pratham0145&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pratham0145/Pratham0145/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratham0145&theme=github_dark" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 📝 Publications
 
-- Production-Grade GenAI Systems  
-- Vector Database Optimization  
-- Enterprise RAG Architectures  
-- Scalable ML Deployment  
+- Enterprise RAG System Design (Internal Production Architecture)
+- Vector Database Optimization for Semantic Search
+- ML Workflow Automation using N8N & Orchestration Pipelines
+
+*(Add links here if published externally)*
+
+---
+
+# ✍ Blog & Technical Writing
+
+Coming soon — planning to publish:
+
+- RAG System Architecture Deep Dive  
+- Redis Stack Vector Index Design  
+- Production GenAI Deployment Guide  
+
+---
+
+# 📄 Resume
+
+Download Resume:  
+(Upload your resume PDF to this profile repo and link here)
+
+Example:
+
+```
+https://github.com/Pratham0145/Pratham0145/blob/main/Prathamesh_Patil_Resume.pdf
+```
+
+---
+
+# 🎯 Current Focus
+
+- Enterprise GenAI Systems  
+- Vector Search Optimization  
+- Production ML Deployment  
+- Scalable RAG Architectures  
 
 ---
 
