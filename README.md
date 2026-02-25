@@ -83,7 +83,7 @@ N8N | Seahorse Workflow | REST APIs | Git | Linux
 ## 🌍 Connect With Me
 
 📧 prathameshece2022@gmail.com  
-🔗 LinkedIn: (Add your LinkedIn URL here)
+🔗 LinkedIn: www.linkedin.com/in/prathamesh-m-patil-810024229
 
 ---
 
