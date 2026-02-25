@@ -1,9 +1,7 @@
 <h1 align="center">Prathamesh Patil</h1>
 
 <p align="center">
-  <a href="https://github.com/Pratham0145">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Scientist;GenAI+%7C+RAG+Systems+Architect;Recommendation+Systems+Engineer;Production+ML+%26+Automation+Specialist" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Scientist;GenAI+%7C+RAG+Systems+Architect;Recommendation+Systems+Engineer;Production+ML+%26+Automation+Specialist" />
 </p>
 
 <p align="center">
@@ -19,25 +17,25 @@
 
 ## 🧠 About Me
 
-Data Scientist with **3+ years of experience** designing and deploying scalable AI systems for CRM optimization, customer intelligence, recommendation engines, and GenAI applications.
+Data Scientist with **3+ years of experience** building scalable AI-driven systems for CRM optimization, customer intelligence, recommendation engines, and GenAI applications.
 
-I specialize in transforming complex business problems into intelligent, production-grade ML solutions.
-
----
-
-## 📊 Impact Highlights
-
-✔ Improved targeted marketing effectiveness using customer segmentation models  
-✔ Built recommendation engines increasing conversion across prepaid & postpaid products  
-✔ Designed RAG-based chatbot reducing customer support workload  
-✔ Automated ML workflows using N8N & Seahorse platforms  
-✔ Developed real-time ML APIs serving low-latency predictions  
+I specialize in converting business problems into production-grade ML systems that deliver measurable impact.
 
 ---
 
-## 🚀 Core Expertise
+## 📊 Impact Metrics
 
-### 📈 Data Science & Machine Learning
+- 🚀 Improved targeted campaign effectiveness using customer segmentation models  
+- 📈 Increased product conversion through matrix factorization recommendation systems  
+- 🤖 Reduced customer support workload by deploying RAG-based conversational AI  
+- ⚙ Automated ML workflows using N8N & Seahorse orchestration  
+- ⚡ Built low-latency real-time inference APIs for production environments  
+
+---
+
+## 🛠 Technical Expertise
+
+### 📊 Data Science & Machine Learning
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn)
@@ -61,53 +59,51 @@ I specialize in transforming complex business problems into intelligent, product
 ### ⚙ Workflow & Orchestration
 ![N8N](https://img.shields.io/badge/N8N-111111?style=for-the-badge)
 ![Seahorse](https://img.shields.io/badge/Seahorse_Workflow-111111?style=for-the-badge)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-111111?style=for-the-badge&logo=apacheairflow)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-111111?style=for-the-badge&logo=apacheairflow)
 ![REST API](https://img.shields.io/badge/REST-111111?style=for-the-badge)
 
 ---
 
-## 🔥 Featured Work
+## 🔥 Featured Projects
 
 ### 🤖 RAG-Based Customer Value Chatbot
-- Architected vector retrieval + LLM generation pipeline  
-- Implemented semantic search using embeddings  
-- Deployed conversational AI for enterprise CRM use  
+- Architected vector database + LLM retrieval pipeline  
+- Implemented semantic embedding search  
+- Deployed enterprise-ready conversational AI  
 🔗 Repo: https://github.com/Pratham0145/chatbot  
 
 ---
 
 ### 🎯 Recommendation Engine
 - Built collaborative filtering models (SVD, NMF)  
-- Created real-time inference API  
-- Optimized behavioral targeting pipelines  
+- Designed real-time prediction serving APIs  
+- Optimized prepaid & postpaid product targeting  
 
 ---
 
-### 📊 Customer Segmentation System
-- Designed unsupervised ML segmentation models  
-- Integrated RFM analytics into CRM campaigns  
-- Improved personalization accuracy  
+### 📊 AI Customer Segmentation System
+- Designed unsupervised ML models (K-Means, DBSCAN)  
+- Integrated RFM analytics with CRM workflows  
+- Improved personalization strategies  
 
 ---
 
-### ⚙ Text-to-Rule Automation (N8N)
+### ⚙ Text-to-Rule Automation Engine
 - Converted natural language business rules into automation workflows  
-- Integrated NLP for intent detection & entity extraction  
-- Reduced configuration time for business users  
+- Integrated NLP-based intent & entity extraction  
+- Reduced manual configuration effort  
 
 ---
 
-
-## 📊 GitHub Insights
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Pratham0145&theme=github-dark&hide_border=true" />
 </p>
----
 
-## 🐍 Contribution Activity
-
-![Snake animation](https://raw.githubusercontent.com/Pratham0145/Pratham0145/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pratham0145/Pratham0145/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
@@ -115,8 +111,8 @@ I specialize in transforming complex business problems into intelligent, product
 
 - Production-Grade GenAI Systems  
 - Multi-User AI Assistants  
-- Scalable ML Deployment  
 - Vector Databases & LLM Orchestration  
+- Scalable ML Deployment  
 
 ---
 
