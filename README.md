@@ -58,10 +58,11 @@ I specialize in transforming complex business problems into intelligent, product
 
 ---
 
-### ⚙ Workflow & Automation
+### ⚙ Workflow & Orchestration
 ![N8N](https://img.shields.io/badge/N8N-111111?style=for-the-badge)
+![Seahorse](https://img.shields.io/badge/Seahorse_Workflow-111111?style=for-the-badge)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-111111?style=for-the-badge&logo=apacheairflow)
 ![REST API](https://img.shields.io/badge/REST-111111?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 
 ---
 
